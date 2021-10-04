@@ -1,0 +1,28 @@
+body{
+  background-color: #ffeee6;
+  margin: 0;
+  padding: 0;
+}
+h1{
+  font-style: bold;
+  font-family: sans-serif;
+  margin:auto;
+  align-content: center;
+  padding: 50px;
+  background-color:  #ffccb3;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+nav{
+  margin-left:25px;
+}
+li a {
+color: black;
+font-size: 14px;
+font-family: monospace;
+font-weight: bolder;
+}
